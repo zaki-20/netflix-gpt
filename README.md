@@ -3,6 +3,8 @@
 - npm create vite
 - configured tailwindcss
 - Header
+- Routing
+- Form Handling and Validation using Yup and Formik
 - Login Form
 
 # Features
